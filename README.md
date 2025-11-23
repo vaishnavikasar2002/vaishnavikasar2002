@@ -55,7 +55,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/vaishnavikasar2002/vaishnavikasar2002/output/github-contribution-grid-snake.svg" alt="snake animation"
 ) />
-  
+    <br/>
   <br/>
 </div>
 
