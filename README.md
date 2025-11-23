@@ -53,9 +53,10 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/vaishnavikasar2002/vaishnavikasar2002/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/vaishnavikasar2002/vaishnavikasar2002/output/github-contribution-grid-snake.svg" alt="snake animation"
+) />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
